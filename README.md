@@ -17,15 +17,15 @@ PART 2: Glossary
 - __Branch__: A movable pointer that is linked with a commit, it shows the flow or progress of changes.
 - __Clone__: To basically duplicate. In the case of a repository, it creates a local copy 
 - __Commit__: A command which captures the current state of the project and saves changes to the repository.
-- __Fetch__
-- __GIT__
-- __Github__
-- __Merge__
-- __Merge Conflict__
-- __Push__
-- __Pull__
+- __Fetch__: A command that downloads remote refs, commits, and files from a remote repository to the local one.
+- __GIT__: An open source version control system. 
+- __Github__: A cloud based service which hosts Git repositories with version control functionality.
+- __Merge__: The combining of commit sequences into one commit.
+- __Merge Conflict__: Occurs when Git cannot process the differences between the code of two different commits.
+- __Push__: A command to send the local repository to a remote repository.
+- __Pull__: A comman to fetch and download a remote repository to update the local system based on the content.
 - __Remote__: A common respository which all users work exchange changes on. It is stored remotely on Github on another server.
-- __Repository__: 
+- __Repository__: The code history, or a file of changes to the project made over time. It contains the code either in development or completion. 
 
 References:
 - https://git-scm.com/docs
